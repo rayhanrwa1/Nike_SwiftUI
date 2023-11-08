@@ -39,8 +39,8 @@ Kode ini dibuat oleh Han pada 8/11/23.
 
 Jika Anda memiliki pertanyaan atau memerlukan bantuan, jangan ragu untuk menghubungi penulis.
 
---- Tanggal Update 9 Nov 2023 : 12:55 AM.
+--- Tanggal Update 9 Nov 2023 : 1:25 AM.
 
 Untuk informasi lebih lanjut tentang SwiftUI dan pengembangan aplikasi iOS, kunjungi [Dokumentasi Pengembang Apple](https://developer.apple.com/documentation/swiftui).
 
-![Alt text](<SwiftUI README.png>)
+![Alt text](<SwiftUI README.md.jpg>)
